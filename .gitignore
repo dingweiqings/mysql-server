@@ -1,6 +1,6 @@
 # emacs backup files
 *~
-
+/build
 # Misc tags/ctags files
 tags
 TAGS
